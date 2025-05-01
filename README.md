@@ -7,7 +7,5 @@
 </p>
 
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=ushodmonov&show_icons=true" width="500">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushodmonov&theme=light" width="500">
+### GitHub Stats:
+![](https://komarev.com/ghpvc/?username=ushodmonov)
